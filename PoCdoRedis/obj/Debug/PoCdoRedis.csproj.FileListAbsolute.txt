@@ -1,0 +1,15 @@
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\PoCdoRedis.exe.config
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\PoCdoRedis.exe
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\PoCdoRedis.pdb
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\Newtonsoft.Json.dll
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.dll
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.Extensions.Newtonsoft.dll
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.pdb
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.xml
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.Extensions.Core.xml
+C:\workspace\PoCdoRedis\PoCdoRedis\bin\Debug\StackExchange.Redis.Extensions.Newtonsoft.xml
+C:\workspace\PoCdoRedis\PoCdoRedis\obj\Debug\PoCdoRedis.csprojResolveAssemblyReference.cache
+C:\workspace\PoCdoRedis\PoCdoRedis\obj\Debug\PoCdoRedis.exe
+C:\workspace\PoCdoRedis\PoCdoRedis\obj\Debug\PoCdoRedis.pdb
